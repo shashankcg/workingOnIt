@@ -61,7 +61,7 @@ import sun.misc.BASE64Encoder;
 
 	public class SignMessage {
 
-	    static final String KEYSTORE_FILE = "/ise/certs/shasc-lnx.cisco.com.jks";
+	    static final String KEYSTORE_FILE = "/ise/certs/nameofkeystore.jks";
 	    static final String KEYSTORE_INSTANCE = "JKS";
 	    static final String KEYSTORE_PWD = "changeit";
 	    static final String KEYSTORE_ALIAS = "tomcat";
