@@ -1,3 +1,6 @@
+
+//http://stackoverflow.com/questions/16662408/correct-way-to-sign-and-verify-signature-using-bouncycastle
+
 import sun.misc.BASE64Encoder;
 import java.security.*;
 import java.security.cert.CertificateException;
